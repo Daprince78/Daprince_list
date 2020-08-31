@@ -1,3 +1,7 @@
+p {
+    color:red;
+}
+
 .card {
     height: 400px; /* your height here */
     overflow: hidden;
